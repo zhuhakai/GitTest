@@ -1,0 +1,30 @@
+
+Working Dir	Staging		local branch		remote branch
+git add	----------->
+
+		git commit ---------->
+
+				git push ---------------------->
+
+
+<--------------------------------------------------------- git pull
+
+<------------------------------ git checkout
+
+
+
+git switch
+
+
+
+git branch 
+git branch -r
+
+
+git branch <name>
+git checkout <name>
+---------
+git checkout -b <name>
+
+
+
