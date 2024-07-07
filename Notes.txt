@@ -25,3 +25,14 @@ git checkout -b <name>
 
 
 git rm -r --cached .
+
+//add new commit
+git revert abcdef12345
+
+git reset --soft abcdef12345
+git reset --mixed abcdef12345
+git reset --hard abcdef12345
+
+
+// readonly 
+git checkout abcdef12345
