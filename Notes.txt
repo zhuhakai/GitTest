@@ -13,9 +13,6 @@ git add	----------->
 
 
 
-git switch
-
-
 
 git branch 
 git branch -r
@@ -27,4 +24,4 @@ git checkout <name>
 git checkout -b <name>
 
 
-
+git rm -r --cached .
